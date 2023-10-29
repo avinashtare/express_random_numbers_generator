@@ -1,0 +1,30 @@
+{
+  "name": "express_random_numbers_generator",
+  "version": "6.0.4",
+  "description": "The Random Number Generator is a lightweight and easy-to-use npm package that allows you to generate random numbers within a specified range. It provides a simple and reliable solution for incorporating random number generation into your Node.js applications.",
+  "main": "index.js",
+  "author": "avinash tare",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [
+    "random number generator",
+    "random number",
+    "random word",
+    "avinash tare",
+    "nodejs"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinashtare/express_random_numbers_generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/avinashtare/express_random_numbers_generator/issues"
+  },
+  "homepage": "https://github.com/avinashtare/express_random_numbers_generator#readme"
+}
